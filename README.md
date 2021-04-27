@@ -88,4 +88,4 @@ The `sensitivity_predictor.py` executes in milliseconds where it prompts the use
 Accuracy obtained: 90.7%
 
 
-# Next part: [Recipient Analysis](https://github.com/rajshrivastava/Recipient-Analysis)
+# Next part: [Email recipients prediction using neural networks](https://github.com/rajshrivastava/Recipient-Analysis)
